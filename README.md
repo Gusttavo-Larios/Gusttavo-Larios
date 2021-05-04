@@ -2,7 +2,7 @@
 
 <p align="center">I am passionate about programming and technology! I have skills with Web and Mobile development.</p>
 
-<div align="center" display="flex">
+<div align="center">
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
   <img src="https://www.saashub.com/images/app/service_logos/11/ad388324edad/large.png?1531424414" width="50">
