@@ -1,8 +1,8 @@
-<h1 aling="center">Hello, I'm Gustavo Lários!🚀</h1>
+<h1 align="center">Hello, I'm Gustavo Lários!🚀</h1>
 
-<p aling="center">I am passionate about programming and technology! I have skills with Web and Mobile development.</p>
+<p align="center">I am passionate about programming and technology! I have skills with Web and Mobile development.</p>
 
-<div aling="center">
+<div align="center">
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
   <img src="https://www.saashub.com/images/app/service_logos/11/ad388324edad/large.png?1531424414" width="50">
