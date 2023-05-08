@@ -1,13 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou Gustavo</h1>
 <h3 align="center">Apaixonado por desenvolvimento de Software❤</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gusttavo-larios&label=Profile%20views&color=0e75b6&style=flat" alt="gusttavo-larios" /> </p>
-
 - 🌱 Atualmente estou aprendendo ***Elixir*** e ***PHP***
 
 - 👨‍💻 Trabalho com ***React Web***, ***React Native***, ***Laravel***, ***Phoenix***, ***MySQL*** e ***PostgreSQL***
-
-- 📫 How to reach me **https://www.linkedin.com/in/gustavo-larios-681258206/**
 
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
@@ -42,8 +38,10 @@
 
 </p>
 
-<div style="display: flex, flex-direction: row"; align-items: center;>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gusttavo-larios&show_icons=true&locale=en&layout=compact" alt="gusttavo-larios" style="width: 45%; height: 20rem;"/></p>
+<div style="display: flex; flex-direction: row; align-items: center;">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gusttavo-larios&show_icons=true&locale=en" alt="gusttavo-larios" style="width: 45%; height: 20rem;"/></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gusttavo-larios&show_icons=true&locale=en&theme=dark" alt="gusttavo-larios" style="width: 45%; height: 20rem;"/>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gusttavo-larios&show_icons=true&locale=en&theme=dark" alt="gusttavo-larios" style="width: 45%; height: 20rem;"/>
+  
 </div>
